@@ -1,4 +1,6 @@
 # 2c.SIMULATING ARP /RARP PROTOCOLS
+### NAME : PRASHANTH.K
+### REGISTER NUMBER : 212223230152
 ## AIM
 To write a python program for simulating ARP protocols using TCP.
 ## ALGORITHM:
